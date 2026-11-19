@@ -7,9 +7,7 @@ This repository accompanies the paper *When Is a Band a Sinking Ship: A Ship of 
 Analysis of Membership Replacement and Band Survival*, to be presented at **CHR 2027** and
 published in the **Anthology of Computers and the Humanities**.
 
-> **Status.** The conference has not taken place yet. The dataset, the analysis code and
-> the interactive Band Explorer are being prepared for release here to coincide with
-> publication. Watch the repository to be notified.
+> The dataset, the analysis code and the interactive Band Explorer will follow, to coincide with publication.
 
 ## The idea
 
